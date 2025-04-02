@@ -1,4 +1,4 @@
-# 📌 Notes-Makers Application - Test Plan  
+# 📌 Notes-Makers Application 
 
 ## 📖 Overview  
 The **Notes-Makers** application allows users to **create, edit, save, and manage notes** online. The application includes functionalities such as **adding, deleting, and organizing notes**, along with features like **searching, exporting, and sharing notes**.  
@@ -139,9 +139,3 @@ The testing scope includes validating the following functionalities:
 | Reviewed by | Pooja Yadav (Development Team) | ✅ Approved |  
 | Approved by | Des Technico (Project Manager) | ✅ Approved |  
 
----  
-
-## 📌 Conclusion  
-This test plan ensures that the **Notes-Makers** application meets all functional, security, and usability requirements. By following this structured approach, the QA team aims to **deliver a high-quality, bug-free application** that offers a seamless user experience. 🚀  
-
-📌 **For any queries, please contact the QA team.**
