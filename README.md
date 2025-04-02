@@ -136,6 +136,6 @@ The testing scope includes validating the following functionalities:
 | **Role** | **Name** | **Status** |  
 |---------|--------|---------|  
 | Prepared by | QA Lead | ✅ Approved |  
-| Reviewed by | Pooja Yadav (Development Team) | ✅ Approved |  
+| Reviewed by | Pooja Yadav (SDET Lead) | ✅ Approved |  
 | Approved by | Des Technico (Project Manager) | ✅ Approved |  
 
