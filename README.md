@@ -10,9 +10,7 @@ This document outlines the **testing approach, objectives, scope, strategy, and 
 The testing scope includes validating the following functionalities:  
 ✅ **User Authentication** – Login, Registration, and Password Management  
 ✅ **Dashboard & Navigation** – UI navigation and accessibility  
-✅ **Create, Edit, and Delete Notes** – CRUD operations  
-✅ **Search & Filter Notes** – Search and filter functionalities  
-✅ **Export and Share Notes** – PDF, Word, TXT formats, and sharing options  
+✅ **Create, Edit, and Delete Notes** – CRUD operations   
 ✅ **UI/UX Testing** – Responsive design, accessibility checks  
 ✅ **Security Testing** – Authentication, authorization, and data protection  
 ✅ **Performance & Load Testing** – Speed, stability, and scalability tests  
