@@ -129,11 +129,13 @@ The testing scope includes validating the following functionalities:
 | Slow response times | Optimize backend APIs and database queries. |  
 
 ---  
+
+Bugs Screenshots-  https://drive.google.com/drive/folders/1MeogJyZ6TLamsnAAjZmS20JqAMar-5uR?usp=sharing
 ## ✅ Approval  
 
 | **Role** | **Name** | **Status** |  
 |---------|--------|---------|  
 | Prepared by | QA Lead | ✅ Approved |  
-| Reviewed by | Pooja Yadav (SDET Lead) | ✅ Approved |  
+| Reviewed by |(SDET Lead) | ✅ Approved |  
 | Approved by | Des Technico (Project Manager) | ✅ Approved |  
 
