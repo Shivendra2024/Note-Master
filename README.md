@@ -1,4 +1,4 @@
-# 📌 Notes-Makers Application 
+# 📌 Notes-Master Application 
 
 ## 📖 Overview  
 The **Notes-Makers** application allows users to **create, edit, save, and manage notes** online. The application includes functionalities such as **adding, deleting, and organizing notes**, along with features like **searching, exporting, and sharing notes**.  
