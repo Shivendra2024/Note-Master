@@ -38,9 +38,9 @@ The testing scope includes validating the following functionalities:
 ✔ **Mobile Testing** – Checking UI and functionality across mobile devices.  
 
 ### 🖥️ **Test Environment**  
-- **Operating Systems:** Windows 10/11, macOS  
-- **Browsers:** Chrome (latest), Firefox, Edge, Safari  
-- **Devices:** Desktop, Tablet, Mobile (Android/iOS)  
+- **Operating Systems:** Windows 10
+- **Browsers:** Chrome (latest), Firefox, Edge 
+- **Devices:** Desktop, Tablet, Mobile (Android/iOS 
 
 ---  
 ## ✅ Test Scenarios  
