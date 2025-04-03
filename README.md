@@ -32,7 +32,7 @@ The testing scope includes validating the following functionalities:
 ✔ **Regression Testing** – Ensuring new updates don’t break existing features.  
 ✔ **Security Testing** – Preventing unauthorized access and ensuring encryption.  
 ✔ **Performance Testing** – Measuring page load speed and system response.  
-✔ **Cross-Browser Testing** – Ensuring compatibility on Chrome, Firefox, Edge, and Safari.  
+✔ **Cross-Browser Testing** – Ensuring compatibility on Chrome, Firefox, Edge.
 ✔ **Mobile Testing** – Checking UI and functionality across mobile devices.  
 
 ### 🖥️ **Test Environment**  
